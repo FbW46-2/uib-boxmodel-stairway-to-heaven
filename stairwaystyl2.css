@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+/* no margin will be used-does it mean no command"margin" or margin: 0; ?*/
+body {
+    background-color: aliceblue;
+    /* border: 8px solid rgb(233, 83, 163); */
+    margin: 0;
+    width: 620px;
+    height: 600px;
+    padding: 10px;
+  
+}
+
+div {
+    /* width: 100%; */
+    background-color: aliceblue;
+    padding-left: 6px;
+    display: inline-table;
+}
+
+
+div div{
+    width: 147px;
+    height: 147px;
+    /* margin: 0; */
+    /* padding: 12px; */
+    border: 8px solid grey;
+    background-color: aqua;
+    display: inline-block;
+    
+}
+
+
+
+/* color of the box is the same as border to hide it but to stay in the filled space/the same size as the rest */
+.boxes_red {
+    background-color: red;
+    border: 8px solid red;
+    color: red;
+}
+
+div.boxes_y {
+    background-color: yellow;
+    border: 8px solid brown;
+    width: 147px;
+    height: 147px;
+    color: yellow;
+    
+}
+
+.boxes_no {
+    /* display: none; */
+    visibility: hidden;
+}
