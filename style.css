@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 44.6%;
+    border: rgb(236, 109, 130) solid 5px;
+    margin: auto;
+}
+
+.alldiv {
+    margin-left: -71px;
+}
+
+.firstBox {
+    background-color: greenyellow;
+    width: 148px;
+    height: 150px;
+    margin-left: 522.2px;
+}
+
+.secondBox {
+    background: greenyellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 372px;
+    border: rgb(87, 86, 86) solid 5px;
+}
+
+.thirdBox {
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 221px;
+}
+
+.forthBox {
+    background: greenyellow;
+    width: 148px;
+    height: 150px;
+    margin-left: 71.1px;
+    border: rgb(87, 86, 86) solid 5px;
+}
