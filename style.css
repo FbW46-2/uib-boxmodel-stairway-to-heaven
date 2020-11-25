@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.alldiv {
+    border: rgb(236, 109, 130) solid 5px;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.firstBox {
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 450px;
+}
+
+.secondBox {
+    background: greenyellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    border: rgb(87, 86, 86) solid 5px;
+}
+
+.thirdBox {
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+}
+
+.forthBox {
+    background: greenyellow;
+    width: 150px;
+    height: 150px;
+    border: rgb(87, 86, 86) solid 5px;
+}

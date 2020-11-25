@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.alldiv {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.firstBox {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 0px;
+    border: rgb(255, 67, 99) solid 5px;
+}
+
+.secondBox {
+    background: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+    border: rgb(255, 67, 99) solid 5px;
+}
+
+.thirdBox {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    border: rgb(255, 67, 99) solid 5px;
+}
+
+.forthBox {
+    background: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 450px;
+    border: rgb(255, 67, 99) solid 5px;
+}
+
+.fifthBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-top: -450px;
+}
+
+.sixthBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+
+.seventhBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-top: -150px;
+    margin-left: 150px;
+}
+
+.eightBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+
+.ninthBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-top: -150px;
+    margin-left: 150px;
+}
+
+.tenthBox {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-top: -150px;
+    margin-left: 300px;
+}
