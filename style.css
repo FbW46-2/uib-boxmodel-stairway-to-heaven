@@ -1,0 +1,32 @@
+body{
+    height: 1040px;
+    width: 1040px;
+    border: 10px solid black;
+    }
+
+    div{
+        height: 250px;
+        width: 250px;
+    
+    }
+    .div1 {
+        border: 5px solid red;
+        margin-left: 780px ;
+        background-color: red;
+    }
+    .div2{
+        border: 5px solid blue ;
+        margin-left: 520px ;
+        background-color: blue;
+    }
+    .div3{
+        border: 5px solid rgb(19, 19, 17) ;
+        margin-left: 260px ;
+        background-color: rgb(17, 17, 12);
+    }
+    .div4{
+        border: 5px solid rgb(90, 4, 83) ;
+       
+        background-color: rgb(83, 32, 131);
+    }
+
