@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+/*  */
+body {
+    background-color: aliceblue;
+    border: 8px solid rgb(233, 83, 163);
+    margin: 10px auto;
+    width: 600px;
+    height: 600px;
+
+    
+
+}
+
+div {
+    width: 100%;
+    /* margin: 0 ; */
+    /* padding: 0 0; */
+    
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li div {
+    width: 147px;
+    height: 147px;
+    /* margin: 0;
+    padding: 0; */
+    border: 4px solid aliceblue;
+    background-color: aliceblue;
+}
+
+/* list was making defaullt space between them/div-s that's why the negativ margin */
+li {
+    list-style-type: none ;
+    margin:-2px;
+    /* padding: 0; */
+    display: inline-block;
+
+
+}
+
+/* color of the box is the same as border to hide it but to stay in the filled space/the same size as the rest */
+.box_green_no {
+    background-color: green;
+    border: 4px solid green;
+}
+
+.box_green_m {
+    background-color: lightgreen;
+    border: 4px solid grey;
+}
+/* .divs div{
+    background-color: blue;
+    border: 4px solid black;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+} */
