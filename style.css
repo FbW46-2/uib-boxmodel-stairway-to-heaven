@@ -1,7 +1,9 @@
-body{
+
+.main1{
     height: 1040px;
     width: 1040px;
     border: 10px solid black;
+    margin-bottom: 30px;
     }
 
     div{
@@ -29,4 +31,29 @@ body{
        
         background-color: rgb(83, 32, 131);
     }
+    .mainbox {
+        box-sizing: border-box;
+    }
 
+    .box{
+        height: 200px;
+        width: 200px;
+        background-color: rgb(173, 59, 59);
+    }
+    .box2{
+        padding-left: 200px;
+    }
+    .box3{
+        padding-left: 400px;
+    }
+.box4{
+    padding-left: 600px;
+}
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+.inner1{
+   border: 5px solid green;
+}
